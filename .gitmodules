@@ -1,0 +1,9 @@
+[submodule "morphoji"]
+	path = morphoji
+	url = git@github.com:chefkoch-dev/morphoji.git
+[submodule "php-emoji"]
+	path = php-emoji
+	url = git@github.com:iamcal/php-emoji.git
+[submodule "emoji-detector-php"]
+	path = emoji-detector-php
+	url = git@github.com:aaronpk/emoji-detector-php.git
