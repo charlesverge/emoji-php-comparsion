@@ -8,7 +8,7 @@ $testdata = json_decode(file_get_contents('list.json'), true);
 $methods = [
     'has_emoji', // https://stackoverflow.com/questions/35961245/how-to-remove-all-emoji-from-string-php
     'emoji_contains_emoji', // https://github.com/iamcal/php-emoji
-    'emoji_morphoji', // https://github.com/aaronpk/emoji-detector-php
+    'emoji_morphoji', // https://github.com/chefkoch-dev/morphoji/
     'aaronpk_detech_emoji', //https://github.com/aaronpk/emoji-detector-php
 ];
 $results = [];

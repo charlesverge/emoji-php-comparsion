@@ -5,10 +5,19 @@ This is a script to do a quick comparsion of emoji detection with php libraries.
 
 Run setup.sh it will download the datafiles and install the required modules
 
+## Todo
+
+* Move to a standardized framework, anyone is welcome to make a suggestion. PHPUnit tests would be the option for each library but for compasion of products prehaps someone knows of a better library. Let me know!
+
+## Data
+
+* Emoji https://github.com/milesj/emoji-database/
+* Unicode charcters http://www.unicode.org/Public/10.0.0/ucd/UnicodeData.txt
+
 ## Libraries
 
 * https://github.com/iamcal/php-emoji
-* https://github.com/aaronpk/emoji-detector-php
+* https://github.com/chefkoch-dev/morphoji
 * https://github.com/aaronpk/emoji-detector-php
 * https://stackoverflow.com/questions/35961245/how-to-remove-all-emoji-from-string-php
 
