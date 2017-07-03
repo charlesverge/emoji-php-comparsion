@@ -1,5 +1,16 @@
 # emoji-php-comparsion
-This is a script to do a quick comparsion of emoji detection with three different options
+This is a script to do a quick comparsion of emoji detection with php libraries. A simple regex is included as a baseline.
+
+## Install
+
+Run setup.sh it will download the datafiles and install the required modules
+
+## Libraries
+
+* https://github.com/iamcal/php-emoji
+* https://github.com/aaronpk/emoji-detector-php
+* https://github.com/aaronpk/emoji-detector-php
+* https://stackoverflow.com/questions/35961245/how-to-remove-all-emoji-from-string-php
 
 # Results
 
